@@ -11,7 +11,7 @@ interface BackgroundSystemProps {
 const ENVIRONMENTS = [
     {
         id: "hero",
-        video: "/herosection.mp4",
+        video: "https://res.cloudinary.com/deybty9yi/video/upload/v1770927320/143502-782758191_small_1_z13ul3.mp4",
         opacity: 0.6
     },
     {

@@ -30,7 +30,7 @@ export function Navbar() {
   ]
 
   return (
-    <nav className="sticky top-0 z-[100] border-b border-border bg-background/95 backdrop-blur-md shadow-sm">
+    <nav className="sticky top-0 z-[100] glass border-b border-white/10 shadow-sm">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
